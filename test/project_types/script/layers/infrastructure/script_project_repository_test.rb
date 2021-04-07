@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require "project_types/script/test_helper"
-require "project_types/script/layers/infrastructure/fake_config_ui_repository"
 
 describe Script::Layers::Infrastructure::ScriptProjectRepository do
   include TestHelpers::FakeFS
@@ -35,11 +34,6 @@ describe Script::Layers::Infrastructure::ScriptProjectRepository do
         no_config_ui: no_config_ui
       )
     end
-
-    #before do
-    #  # TODO: replace
-    #  Script::Layers::Infrastructure::ScriptProjectRepository::ConfigUiRepository.stubs(:new).returns(config_ui_repository)
-    #end
 
     describe "failure" do
       describe "when another project with this name already exists" do

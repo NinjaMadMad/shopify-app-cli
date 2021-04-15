@@ -1,6 +1,7 @@
 # [Shopify App CLI](https://shopify.dev/tools/cli)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)[![Build Status](https://travis-ci.com/Shopify/shopify-app-cli.svg?token=qtPazgjyosjEEgxgq7VZ&branch=master)](https://travis-ci.com/Shopify/shopify-app-cli)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fshopify-app-cli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Fshopify-app-cli?ref=badge_shield)
 
 Shopify App CLI helps you build Shopify apps faster. It quickly generates Node.js and Ruby on Rails apps and automates many common development tasks.
 
@@ -43,3 +44,7 @@ Read the [development guide](https://github.com/Shopify/shopify-app-cli/wiki).
 
 - **[Open a GitHub issue](https://github.com/Shopify/shopify-app-cli/issues)** - To report bugs or request new features, open an issue in the Shopify App CLI repository.
 - **[Shopify Community Forums](https://community.shopify.com/)** - Visit our forums to connect with the community and learn more about Shopify App CLI development.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fshopify-app-cli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Fshopify-app-cli?ref=badge_large)
